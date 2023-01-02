@@ -1,3 +1,11 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  background: url('email-pattern.webp') repeat;
+}
+
 .App {
   text-align: center;
 }
